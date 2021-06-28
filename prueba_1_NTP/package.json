@@ -1,0 +1,29 @@
+{   "name": "prueba_1_ntp",
+  "version": "1.0.0",
+  "description": "Evaluación primera semana",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "Geovanny G. Arguello",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.21.1",
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.7"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinchamorro3/prueba_1_Chamorro_Cruz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giothc94/prueba_1_NTP/issues"
+  },
+  "homepage": "https://github.com/kevinchamorro3/prueba_1_Chamorro_Cruz.git"
+}
